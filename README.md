@@ -54,7 +54,7 @@ This project is licensed under the [AGPLv3 License](https://www.gnu.org/licenses
 ArkSecure is not affiliated with any government. It is not a telecommunications provider and does not log, transmit, or retain user metadata or content. Users are responsible for ethical use.
 
 ## Contact
-TBA — encrypted support address coming soon.
+  Arksecureapp@proton.me.
 
 ---
 © 2025 ArkSecure. Freedom is your right.
